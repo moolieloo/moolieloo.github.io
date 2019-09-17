@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Recap of the Visier Tech Talk at UBC
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A team of Visier employees visited UBC on September 16, 2019. The goal of this visit is to recruit co-op students. Visier is a business analytics solutions provider with a focus on human resources. It is currently looking to expand its business into other domains. The company's mission is simple: support decision makers who use data.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The life cycle of a project is:
+1. Extraction of customer data
+2. Analytic object tables
+3. Business metrics and concepts
+4. Charts, comparisons, stories
+5. Guidebooks & benchmarks
+6. Solutions (the platform that the customer actually sees)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Visier mainly hires developers for co-op, but there is one data science co-op avaiable for the January co-op term. Visit https://www.visier.com/about/careers/students/ for more information.
