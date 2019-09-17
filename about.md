@@ -9,7 +9,3 @@ permalink: /about/
 ### More Information
 
 She enjoys playing tennis, golfing and watching movies.
-
-### Contact me
-
-[lou.millie@ymail.com](mailto:lou.millie@ymail.com)
