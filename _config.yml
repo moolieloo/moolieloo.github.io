@@ -9,7 +9,7 @@ name: Millie Lou
 description: Data Scientist, specialized in natural language processing
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.github.ubc.ca/u/1838?s=400
+avatar: https://raw.githubusercontent.com/moolieloo/moolieloo.github.io/master/images/ML_headshot_resized2.png
 
 #
 # Flags below are optional
@@ -19,11 +19,11 @@ avatar: https://avatars.github.ubc.ca/u/1838?s=400
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/moolieloo
+  facebook: 
   flickr:
   github: 
   instagram:
-  linkedin: www.linkedin.com/in/millie-lou-a5b43b192
+  linkedin: www.linkedin.com/in/millie-lou
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
