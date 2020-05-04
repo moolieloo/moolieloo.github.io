@@ -3,7 +3,7 @@ layout: post
 title: Classifying human written text from GPT-2 generated text with LR, CNN and BERT
 ---
 
-This [paper](https://github.com/moolieloo/moolieloo.github.io/blob/master/files/final_text_classification_report.pdf) explores how three different models handled a binary text classification task.
+This [paper](https://www.dropbox.com/s/7lfvjjkv90bfnwr/final_text_classification_report.pdf?dl=0) explores how three different models handled a binary text classification task.
 
 Abstract:
 
